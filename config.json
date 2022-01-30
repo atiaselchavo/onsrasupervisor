@@ -1,0 +1,90 @@
+{
+    "bot": {
+        "token": "",
+        "owner": "903901791350030409",
+        "prefix": ".",
+        "BotStatus": "atia'S 💙 ONSRA",
+        "cooldown": 8,
+        "iltifatsize": 25
+    },
+    "penals": {
+        "ban": {
+            "staff": "896697556363522049",
+            "log": "896697557651165227",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "896697556346740765",
+            "roles": "896697556262858765",
+            "log": "896697557651165228",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "896697556363522048",
+            "roles": "896697556220932121",
+            "log": "896697557651165231",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "896697556346740763",
+            "log": "896697563107958841"
+          }
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        },
+    "logs": {
+        "taglog": "896697556711665737"
+    },
+    "roles": {
+        "boosterrole": "896697556380287032",
+        "viprole": "896697556346740757",
+        "designerrole": "896697556241879058",
+        "musiciansrole": "896697556241879057",
+        "team": "896697556321583133",
+        "sponsored": "896697556346740756"
+    },
+    "channels": {
+        "chat": "896697558993342478",
+        "voicechannel": "896697557995094016",
+        "welcomechannel": "896697556711665736",
+        "rules": "896697557210783777"
+    },
+    "parents": {
+        "publicparents": "896697560763367455"
+    },
+    "registration": {
+        "unregistered": "896697556288032790",
+        "man": ["896697556288032793", "896697556288032792","896697556288032791"],
+        "woman": ["896697556288032796", "896697556288032795","896697556288032794"],
+        "staff": "896697556363522054",
+        "GuilDTag": "✯",
+        "TagSymbol": "✯",
+        "autonickname": "İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "896697556262858763",
+        "susoeciosnickname": "$ Şüpheli Hesap",
+        "oneman": "896697556288032793",
+        "onewoman": "896697556288032796",
+        "minage": 13, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "896697556199952434",
+        "GuilDName": "✯ ONSRA #SOON",
+        "GuildOwnerRole": ["896697556594216987"]
+    },
+    "emojis": {
+        "tada": "<a:onsratada:936909561087021097>",
+        "yes": "<a:onsraonay:917002079334174760>",
+        "no": "<a:onsrared:917002080269504522>"
+
+    },
+    "buttons": {
+        "giveaway": "896697556220932116",
+        "activity": "896697556199952443"
+    }
+}
